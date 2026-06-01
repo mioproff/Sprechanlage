@@ -149,7 +149,7 @@ code{background:#e8e4dc;padding:2px 5px;border-radius:4px;font-size:11px}
 
 /* ── Numpad Widget (rechts, immer sichtbar nach Unlock) ── */
 .numpad-widget{
-  background:linear-gradient(160deg,##f7f3ec,#162a1f);
+  background:linear-gradient(160deg,#e9e6de,#162a1f);
   border:1px solid rgba(111,191,154,0.2);
   box-shadow:0 4px 16px rgba(0,0,0,0.3),inset 0 1px 0 rgba(255,255,255,0.04);
   margin-bottom:12px;
