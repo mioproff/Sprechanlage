@@ -10,7 +10,7 @@ const AUDIO_CONFIG = {
   gong4:      { path: '', label: 'Gong 4',     icon: '🔔' },
   gong5:      { path: '', label: 'Gong 5',     icon: '🔔' },
   durchsage:  { path: '', label: 'Durchsage',  icon: '📢' },
-  alarm:      { path: 'Sound/Alarm.wav', label: 'Alarm',      icon: '🚨', isAlarm: true },
+  alarm:      { path: 'Sound/Alarm.mp3', label: 'Alarm',      icon: '🚨', isAlarm: true },
 };
 
 // ============================================================
